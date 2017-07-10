@@ -14,7 +14,7 @@ language:         "en" # default language of the blog. Language codes: http://ww
 baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "https://evilpilaf.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
-cover:            /media/img/mountain1.jpg
+cover:            /assets/journal-min.jpg
 author:           evilpilaf
 
 
