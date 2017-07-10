@@ -1,6 +1,6 @@
 default:                                                      # Fallback if nothing is specified
-  initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  initial:      evilpilaf                                       # used for author lookup in posts and for first two characters in the about page back button
+  name:         "Mauricio Dominguez"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
@@ -42,3 +42,14 @@ jwillmer:
   website:      "http://jwillmer.de/cv" 
   twitter:      jenswillmer
   github:       jwillmer
+evilpilaf:
+  name:           "Mauricio Dominguez"
+  cover:          /assets/mountain-alternative-cover.jpg
+  picture:        /assets/johndoe.jpg
+  bio:            This is my bio!
+  location:       Netherlands
+  website:        https://evilpilaf.io
+  email:                                                      
+  linkedin:       mauricio-dominguez-diaz-del-castillo-013b2234
+  github:         evilpilaf
+  stackoverflow:  1422608/evilpilaf
