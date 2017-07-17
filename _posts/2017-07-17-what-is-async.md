@@ -2,6 +2,7 @@
 layout:     post
 title:      What is Async?
 keywords:   async await tpl asynchronous sync synchronous sequential blocker
+comments:   enabled
 ---
 
 I wanted to kickoff my blog by writing about a programming pattern that's becoming more and more prevalent and visible across all languages and frameworks: the ***async/await*** pattern.
