@@ -31,4 +31,4 @@ This model isn't new to the programming world, all the way to the lowest level i
 
 Sequential programming can seem simpler and more natural, after all a basic definition of an algorithm is [***"A step-by-step procedure for solving a problem or accomplishing some end..."***](https://www.merriam-webster.com/dictionary/algorithm) so having the steps execute one after the other seems like the simplest solution. Truth is, sequentiality is an illusion, the CPU, network, storage, caches and a number of other in between processes will change the true order of execution of your code, so instead of fighting, embrace it because locks and signals, semaphores, conditional variables and all the waiting constructs come at a cost.
 
-In the next post we'll explore more on the async pattern and see some practical examples. In the meantime I hope you enjoyed this post and see you next time!
+In the next post we'll explore the async patter further and see some practical examples. In the meantime I hope you enjoyed this post and see you next time!
