@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='Content-Security-Policy' content="default-src 'self'; script-src 'self' 'unsafe-inline' *.disqus.com a.disquscdn.com www.google-analytics.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com a.disquscdn.com; img-src * 'self'; font-src 'self' https://fonts.gstatic.com/; media-src 'self'; frame-src disqus.com; block-all-mixed-content;">
 
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
