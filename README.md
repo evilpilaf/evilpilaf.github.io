@@ -1,1 +1,1 @@
-This repositoy contains the contents of the https://www.evilpilaf.io blog
+This repositoy contains the contents of the https://evilpilaf.github.io/ blog
