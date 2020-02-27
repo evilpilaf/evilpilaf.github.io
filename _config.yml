@@ -7,11 +7,11 @@
 
 # Site settings
 title:            A Coders Journal
-description:      
+description:
 keywords:         c# development developer software code coding
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-url:              "https://evilpilaf.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
+url:              "https://evilpilaf.github.io/" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/journal-min.jpg
 author:           evilpilaf
